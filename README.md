@@ -14,5 +14,5 @@ Modal window, smooth scroll, sticky navigation, reveal section animation, lzy lo
 <a href= "https://www.youtube.com/watch?v=W9uaLTV8njA" >Click me</a>
 
 <h3>Live:</h3>
-<a href="bankist2-js-course-jonas-schmedtmann.netlify.app">bankist2-js-course-jonas-schmedtmann.netlify.app</a>
+https://bankist2-js-course-jonas-schmedtmann.netlify.app/
 <hr>
