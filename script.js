@@ -95,7 +95,6 @@ nav.addEventListener('mouseout', handleHover.bind(1));
 
 ///////////////////////////////////////
 // Sticky navigation: Intersection Observer API
-section1.style.backgroundColor = 'pink';
 const header = document.querySelector('.header');
 const navHeight = nav.getBoundingClientRect().height;
 
